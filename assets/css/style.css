@@ -3,7 +3,7 @@
     padding: 0;
     margin: 0;
 }
-/*changed '.classes' in css code from to elements matching that of the html code structure*/
+/*changed '.classes' in css code from to elements matching that of the html code structure classes changed - .header, .header h1, . header nav, .header nav ul, .header ul li*/
 body {
     background-color: #d9dcd6;
 }
@@ -18,6 +18,32 @@ header {
 header h1 {
     display: inline-block;
     font-size: 48px;
+}
+
+header h1 .seo {
+    color: #d9dcd6;
+}
+
+header nav {
+    padding-top: 15px;
+    margin-right: 20px;
+    float: right;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+}
+
+header nav ul {
+    list-style-type: none;
+}
+
+header nav ul li {
+    display: inline-block;
+    margin-left: 25px;
+}
+
+a {
+    color: #ffffff;
+    text-decoration: none;
 }
 
 p {

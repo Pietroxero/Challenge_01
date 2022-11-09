@@ -1,8 +1,10 @@
-# <Your-Project-Title>
+# Bootcamp challenge 1: Horiseon Page.
 
 ## Description
 
 Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
+
+This Challenge 
 
 - What was your motivation?
 - Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
